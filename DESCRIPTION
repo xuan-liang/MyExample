@@ -2,7 +2,7 @@ Package: MyExample
 Title: This is an example about how to make a package.
 Version: 0.0.0.9000
 Authors@R: person("Xuan", "Liang", email = "xuan.liang@anu.edu.au", role = c("aut", "cre"))
-Description: This package was created as a way to learn how to write R packages.
+Description: This package was created as a way to learn how to write a R packages.
 Depends: R (>= 3.6.0)
 License: GPL-3
 Encoding: UTF-8
